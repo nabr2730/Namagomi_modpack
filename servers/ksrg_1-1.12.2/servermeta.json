@@ -1,0 +1,20 @@
+{
+  "$schema": "file:///A:/data/git/Namagomi_Launcher/Namagomi_Launcher_modpack/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "らぎ鯖",
+    "description": "らぎ鯖",
+    "address": "play.nanairosaba.net:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "14.23.5.2860"
+  },
+  "untrackedFiles": []
+}
